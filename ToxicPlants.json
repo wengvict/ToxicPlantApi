@@ -64,7 +64,7 @@
       "cats": "yes",
       "horses": "yes",
       "poisonproperty": "Sesquiterpene lactones",
-      "symptoms": "omiting, anorexia, depression"
+      "symptoms": "Vomiting, anorexia, depression"
     },
     {
       "id": 6,
@@ -85,7 +85,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "saponins",
+      "poisonproperty": "Saponins",
       "symptoms": "Vomiting (not in horses), diarrhea and depression"
     },
     {
@@ -327,7 +327,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": " Essential oils and psoralens",
+      "poisonproperty": "Essential oils and psoralens",
       "symptoms": "Vomiting, diarrhea, depression; potential photosensitivity (dermatitis)"
     },
     {
@@ -404,7 +404,7 @@
       "dogs": "yes",
       "cats": "no",
       "horses": "yes",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Dogs: moldy nuts/hulls can cause tremors and seizures, ingestion of shavings can cause incoordination; Horses: laminitis, colic"
     },
     {
@@ -503,7 +503,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": " Aesculin (a glycosidic saponin), other saponins",
+      "poisonproperty": "Aesculin (a glycosidic saponin), other saponins",
       "symptoms": "Severe vomiting and diarrhea, depression or excitement, dilated pupils, coma, convulsions, wobbly"
     },
     {
@@ -525,7 +525,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Vomiting (colic in horses), diarrhea"
     },
     {
@@ -613,7 +613,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "oils, carvone and limonene",
+      "poisonproperty": "Oils, carvone and limonene",
       "symptoms": "Mild Vomiting and diarrhea"
     },
     {
@@ -778,7 +778,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Vomiting, drunkeness (cats), tremors (rare)"
     },
     {
@@ -954,7 +954,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "ycasin, B-methylamino-l-alanine",
+      "poisonproperty": "Cycasin, B-methylamino-l-alanine",
       "symptoms": "Vomiting (may be bloody), dark stools, jaundice, increased thirst, bloody diarrhea, bruising, liver failure, death. 1-2 seeds can be fatal."
     },
     {
@@ -1955,7 +1955,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "saponins",
+      "poisonproperty": "Saponins",
       "symptoms": "Vomiting, diarrhea and depression. Leaves and berries are low toxicity."
     },
     {
@@ -2153,7 +2153,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "saponins",
+      "poisonproperty": "Saponins",
       "symptoms": "Vomiting, diarrhea and depression. Leaves and berries are low toxicity."
     },
     {
@@ -2725,7 +2725,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "colchicine and other alkaloids",
+      "poisonproperty": "Colchicine and other alkaloids",
       "symptoms": "oral irritation, bloody vomiting, diarrhea, shock, multi-organ damage, bone marrow suppression."
     },
     {
@@ -2846,7 +2846,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "ndole alkaloids (Lysergic acid, lysergamide, elymoclavine and chanoclavine)",
+      "poisonproperty": "Indole alkaloids (Lysergic acid, lysergamide, elymoclavine and chanoclavine)",
       "symptoms": "Vomiting, large amounts of seeds may cause hallucinations"
     },
     {
@@ -3110,7 +3110,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "saponins",
+      "poisonproperty": "Saponins",
       "symptoms": "Vomiting, diarrhea and depression. Leaves and berries are low toxicity."
     },
     {
@@ -3558,11 +3558,11 @@
       "commonname": "Racemose asparagus",
       "scientificname": "Asparagus densiflorus cv sprengeri",
       "othernames": "Asparagus, Emerald Feather, Emerald Fern, Sprengeri Fern, Plumosa Fern, Lace Fern, Asparagus Fern, Shatavari",
-      "dogs": null,
-      "cats": null,
-      "horses": null,
-      "poisonproperty": null,
-      "symptoms": "llergic dermatitis with repeated dermal exposure. Berry ingestion could result in gastric upset (vomiting, abdominal pain, or diarrhea.)"
+      "dogs": "yes",
+      "cats": "yes",
+      "horses": "yes",
+      "poisonproperty": "Unknown",
+      "symptoms": "Allergic dermatitis with repeated dermal exposure. Berry ingestion could result in gastric upset (vomiting, abdominal pain, or diarrhea.)"
     },
     {
       "id": 327,
@@ -3628,7 +3628,7 @@
       "cats": "yes",
       "horses": "unknown",
       "poisonproperty": "Insoluble calcium oxalates",
-      "symptoms": " Oral irritation, intense burning and irritation of mouth, tongue and lips, excessive drooling, vomiting, difficulty swallowing."
+      "symptoms": "Oral irritation, intense burning and irritation of mouth, tongue and lips, excessive drooling, vomiting, difficulty swallowing."
     },
     {
       "id": 333,
@@ -3638,7 +3638,7 @@
       "dogs": "no",
       "cats": "yes",
       "horses": "no",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Vomiting, inappetence, lethargy, kidney failure, and death is possible. Cats are only species known to be affected."
     },
     {
@@ -3770,7 +3770,7 @@
       "dogs": "no",
       "cats": "yes",
       "horses": "no",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Vomiting, inappetence, lethargy, kidney failure, and death is possible. Cats are only species known to be affected."
     },
     {
@@ -3891,7 +3891,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Mild vomiting, diarrhea."
     },
     {
@@ -3925,7 +3925,7 @@
       "cats": "yes",
       "horses": "unknown",
       "poisonproperty": "Sapogenins",
-      "symptoms": "allergic dermatitis with repeated dermal exposure. Berry ingestion could result in gastric upset (vomiting, abdominal pain, or diarrhea.)"
+      "symptoms": "Allergic dermatitis with repeated dermal exposure. Berry ingestion could result in gastric upset (vomiting, abdominal pain, or diarrhea.)"
     },
     {
       "id": 360,
@@ -3946,7 +3946,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Mild vomiting, diarrhea."
     },
     {
@@ -3957,7 +3957,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "unknown",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Nausea, retching"
     },
     {
@@ -3968,7 +3968,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "unknown",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Nausea, retching"
     },
     {
@@ -4133,7 +4133,7 @@
       "dogs": "no",
       "cats": "yes",
       "horses": "no",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Vomiting, inappetence, lethargy, kidney failure and death is possible. Cats are only species known to be affected"
     },
     {
@@ -4210,7 +4210,7 @@
       "dogs": "unknown",
       "cats": "unknown",
       "horses": "yes",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Wilted leaves are considered to be most toxic. Damage to red blood cells, resulting in decreased ability to carry oxygen to tissues; darkening of the membranes around the eyes/mouth,weakness, feed refusal, central nervous system depression, abdominal discomfort, laminitis, discolored urine, abortion in pregnant mares. Death can occur within 18 hours or as long as 7-10 days after "
     },
     {
@@ -4243,7 +4243,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "unknown",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Mild gastrointestinal signs, mild dermatitis"
     },
     {
@@ -4276,7 +4276,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "unknown",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Can cause mild gastrointestinal signs and dermatitis"
     },
     {
@@ -4364,7 +4364,7 @@
       "dogs": "no",
       "cats": "yes",
       "horses": "no",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": null
     },
     {
@@ -4507,7 +4507,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Dermatitis"
     },
     {
@@ -4716,7 +4716,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "unknown",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Mild gastrointestinal signs, mild dermatitis"
     },
     {
@@ -4760,7 +4760,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "saponins",
+      "poisonproperty": "Saponins",
       "symptoms": "Vomiting, diarrhea and depression. Leaves and berries are low toxicity."
     },
     {
@@ -4793,7 +4793,7 @@
       "dogs": "no",
       "cats": "yes",
       "horses": "no",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Vomiting, inappetence, lethargy, kidney failure and death is possible. Cats are only species known to be affected"
     },
     {
@@ -4848,7 +4848,7 @@
       "dogs": "unknown",
       "cats": "unknown",
       "horses": "yes",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "The plant is not usually eaten unless other forage is unavailable, or when incorporated into hay. Poisonings occur at ingestions of 50%- 200% of the animal's body weight over a 60 to 90 day period of grazing. Clinical signs have been referred to as \"chewing disease\", where horses chew but are unable to obtain food or swallow. Signs seen include a grinning appearance, open mouth with protruding, lolling tongue, yawning, head tossing, central nervous system depression, lost interest in food, difficulty breathing due to inhalation of food, submerging the head in water in an attempt to drink. Death can occur due to lack of eating and drinking, leading to dehydration and malnutrition."
     },
     {
@@ -4881,7 +4881,7 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "unknown",
+      "poisonproperty": "Unknown",
       "symptoms": "Sever vomiting and diarrhea."
     },
     {
