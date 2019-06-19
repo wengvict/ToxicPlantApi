@@ -35,7 +35,7 @@
     },
     {
       "id": 3,
-      "commonname": "aloe",
+      "commonname": "Aloe",
       "scientificname": "Aloe vera",
       "othernames": null,
       "dogs": "yes",
@@ -145,8 +145,8 @@
     },
     {
       "id": 13,
-      "commonname": "apricot",
-      "scientificname": "Prunus armeniaca\n",
+      "commonname": "Apricot",
+      "scientificname": "Prunus armeniaca",
       "othernames": null,
       "dogs": "yes",
       "cats": "yes",
@@ -156,7 +156,7 @@
     },
     {
       "id": 14,
-      "commonname": "arrow-head vine",
+      "commonname": "Arrow-Head Vine",
       "scientificname": "Syngonium podophyllum",
       "othernames": null,
       "dogs": "yes",
@@ -2597,39 +2597,6 @@
       "symptoms": "Diuretic, increased urination"
     },
     {
-      "id": 236,
-      "commonname": null,
-      "scientificname": null,
-      "othernames": null,
-      "dogs": null,
-      "cats": null,
-      "horses": null,
-      "poisonproperty": null,
-      "symptoms": null
-    },
-    {
-      "id": 237,
-      "commonname": null,
-      "scientificname": null,
-      "othernames": null,
-      "dogs": null,
-      "cats": null,
-      "horses": null,
-      "poisonproperty": null,
-      "symptoms": null
-    },
-    {
-      "id": 238,
-      "commonname": null,
-      "scientificname": null,
-      "othernames": null,
-      "dogs": null,
-      "cats": null,
-      "horses": null,
-      "poisonproperty": null,
-      "symptoms": null
-    },
-    {
       "id": 239,
       "commonname": "Macadamia Nut",
       "scientificname": "Macadamia integrifolia",
@@ -2726,7 +2693,7 @@
       "cats": "yes",
       "horses": "yes",
       "poisonproperty": "Insoluble calcium oxalates",
-      "symptoms": "Oral irritation, pain and swelling of mouth, tongue and lips, excessive drooling, vomiting (not horses), difficulty swallowing\n"
+      "symptoms": "Oral irritation, pain and swelling of mouth, tongue and lips, excessive drooling, vomiting (not horses), difficulty swallowing"
     },
     {
       "id": 248,
@@ -3067,7 +3034,7 @@
       "cats": "yes",
       "horses": "unknown",
       "poisonproperty": "Terpenoids, saponins, insoluble oxalates",
-      "symptoms": "Mild vomiting, diarrhea.\n"
+      "symptoms": "Mild vomiting, diarrhea."
     },
     {
       "id": 279,
@@ -3084,7 +3051,7 @@
       "id": 280,
       "commonname": "Oleander",
       "scientificname": "Nerium oleander",
-      "othernames": "Rose-Bay\n",
+      "othernames": "Rose-Bay",
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
@@ -3099,8 +3066,8 @@
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
-      "poisonproperty": "N-propyl disulfide\n",
-      "symptoms": "Vomiting, breakdown of red blood cells (hemolytic anemia, Heinz body anemia), blood in urine, weakness, high heart rate, panting\n"
+      "poisonproperty": "N-propyl disulfide",
+      "symptoms": "Vomiting, breakdown of red blood cells (hemolytic anemia, Heinz body anemia), blood in urine, weakness, high heart rate, panting"
     },
     {
       "id": 282,
@@ -3149,13 +3116,13 @@
     {
       "id": 286,
       "commonname": "Ornamental Pepper",
-      "scientificname": "Solanum pseudocapsicum\n",
+      "scientificname": "Solanum pseudocapsicum",
       "othernames": "Natal Cherry, Winter Cherry, Jerusalem Cherry",
       "dogs": "yes",
       "cats": "yes",
       "horses": "yes",
       "poisonproperty": "Solanine",
-      "symptoms": "Gastrointestinal disturbances, possible ulceration of the gastrointestinal system, seizures, depression, respiratory depression, and shock.\n"
+      "symptoms": "Gastrointestinal disturbances, possible ulceration of the gastrointestinal system, seizures, depression, respiratory depression, and shock."
     },
     {
       "id": 287,
@@ -3171,7 +3138,7 @@
     {
       "id": 288,
       "commonname": "Painter's Pallette",
-      "scientificname": "Anthurium scherzeranum\n",
+      "scientificname": "Anthurium scherzeranum",
       "othernames": "Flamingo Plant, Flamingo Lily, Tail Flower, Oilcloth Flower, Pigtail Plant, Flamingo Flower",
       "dogs": "yes",
       "cats": "yes",
@@ -3589,7 +3556,7 @@
     {
       "id": 326,
       "commonname": "Racemose asparagus",
-      "scientificname": "Asparagus densiflorus cv sprengeri\n",
+      "scientificname": "Asparagus densiflorus cv sprengeri",
       "othernames": "Asparagus, Emerald Feather, Emerald Fern, Sprengeri Fern, Plumosa Fern, Lace Fern, Asparagus Fern, Shatavari",
       "dogs": null,
       "cats": null,
@@ -4217,7 +4184,7 @@
       "id": 383,
       "commonname": "Sudan Grass",
       "scientificname": "Sorghum vulgare var sudanesis",
-      "othernames": "Hybrid Sudan\n",
+      "othernames": "Hybrid Sudan",
       "dogs": "no",
       "cats": "no",
       "horses": "yes",
